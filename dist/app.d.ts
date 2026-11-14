@@ -1,1 +1,1 @@
-declare let message: string;
+export {};
