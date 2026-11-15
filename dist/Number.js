@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let age = 24;
 console.log(age);
 // whole Number,
@@ -19,3 +17,4 @@ let a = 10;
 let b = 20;
 let c = a + b;
 console.log(c);
+export {};

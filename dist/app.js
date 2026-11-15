@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // String Type
 let userName = "NiteshSharma";
 console.log(userName);
@@ -11,3 +9,4 @@ let isLoggedIn = true;
 console.log(isLoggedIn);
 let course = "typeScript";
 console.log(typeof course);
+export {};
